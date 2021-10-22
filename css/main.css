@@ -1,0 +1,63 @@
+.elso {
+    background-color: aqua;
+    padding: 20px 0;
+    border: 1px solid gray;
+    text-align: center;
+}
+
+#masodikKontener {
+    min-height: 300px;
+    margin-top: 20px;
+    background-color: indianred;
+}
+
+.masodik {
+    background-color: green;
+    padding: 20px 0;
+    border: 1px solid gray;
+    text-align: center;
+}
+
+#harmadikKontener {
+    min-height: 300px;
+    margin-top: 20px;
+    background-color: rgb(175, 99, 99);
+}
+
+#harmadikKontener .row {
+    min-height: 300px;
+}
+
+.harmadik {
+    background-color: rgb(27, 122, 27);
+    padding: 20px 0;
+    border: 1px solid gray;
+    text-align: center;
+    color: white;
+    min-height: 50px;
+}
+
+
+
+#negyedikKontener {
+    min-height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(168, 121, 121);
+}
+
+#negyedikKontener .row {
+    min-height: 300px;
+}
+
+.negyedik {
+    background-color: rgb(11, 59, 11);
+    padding: 20px 0;
+    border: 1px solid gray;
+    text-align: center;
+    color: white;
+    min-height: 50px;
+}
+
+
+
